@@ -2,9 +2,9 @@
 test repository
 # Heading 1
 ## Heading 2
-### Hdeaing 3
+### Heading 3
 
-** Bold text **
+**Bold text**
 
 *italicized text*
 ---
